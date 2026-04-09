@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Kanote 📝</h1>
   <p>A modern, full-stack Note-Taking SaaS application tailored for seamless productivity and elegant user experience.</p>
   
@@ -8,7 +8,12 @@
   [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
   [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
   
+  <h2>Preview</h2
   <img src="./image.png" alt="Kanote Preview" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;"/>
+
+  <br>
+  <h2>Login</h2>
+  <img src="./image-1.png" alt="Kanote Login" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 20px;"/>
 </div>
 
 ---
